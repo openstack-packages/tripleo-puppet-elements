@@ -4,7 +4,7 @@
 Name:		openstack-tripleo-puppet-elements
 Summary:	OpenStack TripleO Puppet Elements for diskimage-builder
 Version:    	XXX
-Release:    	XXX{?dist}
+Release:    	XXX
 License:	ASL 2.0
 Group:		System Environment/Base
 URL:		https://wiki.openstack.org/wiki/TripleO
