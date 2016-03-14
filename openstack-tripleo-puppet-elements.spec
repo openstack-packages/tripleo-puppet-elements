@@ -41,5 +41,3 @@ find %{buildroot} -name .git-keep-empty | xargs rm -f
 %{_datadir}/tripleo-puppet-elements
 
 %changelog
-* Wed Feb 25 2014 James Slagle <jslagle@redhat.com> XXX
-- Initial packaging
